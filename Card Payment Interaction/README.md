@@ -1,4 +1,5 @@
-#  :musical_note: Music Player Simple V1
+#  :credit_card: Pull to Pay :moneybag: :moneybag:
+## A simple way to get your OTP's or Auth Code.
 
 
 ### :vibration_mode: Working
