@@ -1,4 +1,4 @@
-# The_UI_Project
+# The UI Project
 Bridging the gap between UX to UI 
 
 
